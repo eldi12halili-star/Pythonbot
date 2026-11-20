@@ -1,0 +1,6 @@
+data/
+trades.csv
+equity.csv
+equity.png
+__pycache__/
+.venv/
